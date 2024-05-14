@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/new_file.png</file>
+        <file>icon/eraser.png</file>
+        <file>icon/pen.png</file>
+        <file>icon/save_file.png</file>
+        <file>icon/tool.png</file>
+        <file>icon/revoke.png</file>
+        <file>icon/new.png</file>
+        <file>icon/open_file.png</file>
+        <file>icon/adobe-photoshop-logo_00(1).png</file>
+        <file>icon/6284-1104121A52151.jpg</file>
+    </qresource>
+</RCC>
